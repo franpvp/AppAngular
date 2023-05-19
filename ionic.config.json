@@ -1,5 +1,8 @@
 {
   "name": "AppAngular",
-  "integrations": {},
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
   "type": "angular"
 }
